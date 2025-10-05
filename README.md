@@ -1,7 +1,7 @@
-Deep Learning for Perception — Assignment 1
+Deep Learning for Perception
 =================================================
 
-Author: Umer Farooq (Roll No: 22I-0891, Section: CS-7B)
+Author: Umer Farooq
 
 Overview
 --------
