@@ -1,0 +1,7 @@
+Project intelligence notes:
+- Follow assignment phases strictly; each phase clearly labeled in notebook.
+- Avoid pandas per requirements; rely on NumPy and sklearn.
+- Target variable is MedHouseVal (x100k USD).
+- Prefer pipelines for CV; scale inputs for SGD.
+- Document metrics consistently (MSE, RMSE, MAE, R2) and compare.
+- Report should summarize EDA insights, strongest correlations, model comparisons, and CV stability.
